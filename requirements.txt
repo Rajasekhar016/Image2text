@@ -1,0 +1,5 @@
+streamlit # front end..
+google-generativeai # Generative AI model
+python-dotenv #meant for local environment
+langchain
+langchain_google_genai
